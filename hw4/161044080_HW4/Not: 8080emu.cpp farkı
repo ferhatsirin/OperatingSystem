@@ -1,0 +1,6 @@
+NOT: 2. ve 3. ödevde bu şekilde yapmıştım.
+
+8080emu.cpp son gönderdiğinizden farkı :
+
+1) PCHL instruction kodu ilk gönderdiğiniz 8080emu.cpp'deki kodunu kullandım.
+2) Interrupt adresini 258 b 257 c şeklinde ilerledim. Sizin gönderdiğinizde 258 c 257 b idi. 
